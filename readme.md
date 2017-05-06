@@ -1,5 +1,7 @@
 # strip-json-comments [![Build Status](https://travis-ci.org/sindresorhus/strip-json-comments.svg?branch=master)](https://travis-ci.org/sindresorhus/strip-json-comments)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/strip-json-comments.svg)](https://greenkeeper.io/)
+
 > Strip comments from JSON. Lets you use comments in your JSON files!
 
 This is now possible:
